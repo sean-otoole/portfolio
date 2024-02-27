@@ -10,7 +10,7 @@ This Portfolio is a compilation of a select number of current projects and past 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_cell_analysis_example.jpg"> **[Single-cell RNA-sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/scell_otoole_2023)**
+<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_cell_analysis.jpg"> **[Single-cell RNA-sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/scell_otoole_2023)**
 
 In this project XXX. The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
