@@ -1,8 +1,8 @@
 # Data Science Portfolio - Sean O'Toole
 This Portfolio is a compilation of a select number of current projects and past projects I have done as a post-doctoral fellow, or for learning and hobby purposes.
 
-- **LinkedIn**: [https://ch.linkedin.com/in/sean-o-toole-662a16176](https://ch.linkedin.com/in/sean-o-toole-662a16176)
-- **Google Scholar**: [current publications](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
+- **LinkedIn**: [In case you want to connect!](https://ch.linkedin.com/in/sean-o-toole-662a16176)
+- **Google Scholar**: [Take a look at my publihed works!](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
 
 ## Education
 - Ph.D. Brandeis University, Neuroscience
@@ -10,7 +10,7 @@ This Portfolio is a compilation of a select number of current projects and past 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/test.png?raw=true"> **[Single-cell RNA sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/scell_otoole_2023)**
+<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/test.png"> **[Single-cell RNA sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/scell_otoole_2023)**
 
 In this project XXX.
 #
