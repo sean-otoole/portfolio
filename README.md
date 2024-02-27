@@ -13,6 +13,7 @@ This Portfolio is a compilation of a select number of current projects and past 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/test.png"> **[Single-cell RNA sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/scell_otoole_2023)**
 
 In this project XXX.
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
