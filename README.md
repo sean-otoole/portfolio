@@ -28,7 +28,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/aav_histology_image.jpg"> **[Comparing the spatial expression patterns of AAVs for O'Toole, 2023](https://github.com/sean-otoole/aav_histology_otoole_2023)**
+<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/aav_histology_image.jpg"> **[Comparing the spatial patterns of AAVs for O'Toole, 2023](https://github.com/sean-otoole/aav_histology_otoole_2023)**
 
 In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
 
