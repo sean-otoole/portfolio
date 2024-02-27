@@ -22,7 +22,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/bulk_RNA_sequencing.jpg"> **[Bulk RNA-sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/bulk_RNA_seq_otoole_2023)**
+<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/bulk_RNA_sequencing.jpg"> **[Bulk RNA-sequencing analysis of AAVs for O'Toole, 2023](https://github.com/sean-otoole/bulk_RNA_seq_otoole_2023)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
