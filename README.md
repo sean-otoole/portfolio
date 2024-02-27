@@ -12,7 +12,7 @@ This Portfolio is a compilation for a select number of current projects and past
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_cell_analysis.jpg"> **[Single-cell RNA-sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/scell_otoole_2023)**
 
-In this project I used single-cell RNA sequencing data I obtained to determine the transcriptional identity of functional groups of neocortical neurons. The work involved mapping the identities of ~60k neurons through the use of dimensionality reduction, matrix factorization, clustering and bootstrapping.
+In this project, largely written in R, I used single-cell RNA sequencing data I obtained to determine the transcriptional identity of functional groups of neocortical neurons. The work involved mapping the identities of ~60k neurons through the use of dimensionality reduction, matrix factorization, clustering and bootstrapping.
 
 #
 
