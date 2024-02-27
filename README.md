@@ -2,7 +2,7 @@
 This Portfolio is a compilation of a select number of current projects and past projects I have done as a post-doctoral fellow, or for learning and hobby purposes.
 
 - **LinkedIn**: [In case you want to connect!](https://ch.linkedin.com/in/sean-o-toole-662a16176)
-- **Google Scholar**: [Take a look at my publihed works!](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
+- **Google Scholar**: [Take a look at my published works!](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
 
 ## Education
 - Ph.D. Brandeis University, Neuroscience
