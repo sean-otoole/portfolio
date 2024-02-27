@@ -30,13 +30,13 @@ Here I compare the RNA expression patterns of differing neuronal populations inf
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/aav_histology_image.jpg"> **[Comparing the spatial patterns of AAVs for O'Toole, 2023](https://github.com/sean-otoole/aav_histology_otoole_2023)**
 
-In this project I compare the spatial expression of AAVs in neocortical tissue slices. Images are processed with an imagej macro and the final comparisons and computaitons are performed with python.
+In this project I compare the spatial expression of AAVs in neocortical tissue slices. Images are processed with an imagej macro and the final comparisons and computaitons are performed with python.<br><br>
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_nuclei_sequencing.jpg"> **[single-nuclei RNA-sequencing analysis for Widmer, 2022](https://github.com/sean-otoole/single_nuclei_seq_widmer_2022)** 
 
-This code allowed for the examinae the degree to which a specific gene was knocked within and across differing cell types./n/n
+This code allowed for the examinae the degree to which a specific gene was knocked within and across differing cell types.<br><br>
 
 #
 
