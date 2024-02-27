@@ -16,7 +16,7 @@ In this project XXX. The objective of this project is to analyze the 3 million g
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Neural activity and behavioral analysis for O'Toole, 2023](https://github.com/sean-otoole/2p_neural_activity_otoole_2023)**
+<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/neural_activity.jpg"> **[Neural activity and behavioral analysis for O'Toole, 2023](https://github.com/sean-otoole/2p_neural_activity_otoole_2023)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
