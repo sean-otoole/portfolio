@@ -30,13 +30,13 @@ Here I compare the RNA expression patterns of differing neuronal populations inf
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/aav_histology_image.jpg"> **[Comparing the spatial patterns of AAVs for O'Toole, 2023](https://github.com/sean-otoole/aav_histology_otoole_2023)**
 
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
+In this project I compare the spatial expression of AAVs in neocortical tissue slices. Images are processed with an imagej macro and the final comparisons and computaitons are performed with python.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_nuclei_sequencing.jpg"> **[single-nuclei RNA-sequencing analysis for Widmer, 2022](https://github.com/sean-otoole/single_nuclei_seq_widmer_2022)** 
 
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.
+This code allowed for the examinae the degree to which a specific gene was knocked within and across differing cell types.
 
 #
 
