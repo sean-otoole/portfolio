@@ -18,13 +18,13 @@ In this project, largely written in R, I used single-cell RNA sequencing data I 
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/neural_activity.jpg"> **[Neural activity and behavioral analysis for O'Toole, 2023](https://github.com/sean-otoole/2p_neural_activity_otoole_2023)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+This repository, written in matlab, contains two separate sets of analysis, both of which are related to examining the neural activity patterns of specific cell types. The analyses largely involved parsing a metadata file from a two-photon imaging pipeline. The level of activity for differing groups of neurons are compared during specific behavioral events. I use a combination of hierchical nested bootstrap and regression to compare these populations.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/bulk_RNA_sequencing.jpg"> **[Bulk RNA-sequencing analysis of AAVs for O'Toole, 2023](https://github.com/sean-otoole/bulk_RNA_seq_otoole_2023)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+Here I compare the RNA expression patterns of differing neuronal populations infected with AAVs that are designed to label differing neuronal cell types. Here I've mapped RNA-sequencing reads against a custom version of the mouse genome (which I modfied to account for the expression of an AAV) and compare transcriptional markers to test the specificity of populations labeled with different viruses.
 
 #
 
