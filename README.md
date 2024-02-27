@@ -34,7 +34,7 @@ In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engi
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[single-nuclei RNA-sequencing analysis for Widmer, 2022](https://github.com/sean-otoole/single_nuclei_seq_widmer_2022)** 
+<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/widmer_image_example.jpg"> **[single-nuclei RNA-sequencing analysis for Widmer, 2022](https://github.com/sean-otoole/single_nuclei_seq_widmer_2022)** 
 
 Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.
 
