@@ -30,7 +30,9 @@ Here, with a combination of R and Python, I compare the RNA expression patterns 
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/aav_histology_image.jpg"> **[Comparing the spatial patterns of AAVs for O'Toole, 2023](https://github.com/sean-otoole/aav_histology_otoole_2023)**
 
-In this project I compare the spatial expression of AAVs in neocortical tissue slices. Images are processed with an imagej macro and the final comparisons and computaitons are performed with python.<br><br>
+In this project I compare the spatial expression of AAVs in neocortical tissue slices. Images are processed with an imagej macro and the final comparisons and computaitons are performed with python.
+<br>
+<br>
 
 #
 
