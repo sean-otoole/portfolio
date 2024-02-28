@@ -1,5 +1,11 @@
+[git_logo]: https://github.com/sean-otoole/portfolio/blob/main/images/github_logo.png
+[linkedIn_logo]: https://github.com/sean-otoole/portfolio/blob/main/images/linkedIn_logo.png
+
+
 # Data Science Portfolio - Sean O'Toole
 This portfolio is a compilation of a selected number of current and past projects that I have undertaken either academically, or for learning and hobby purposes.
+
+[git_logo]
 
 - **LinkedIn**: [In case you want to connect!](https://ch.linkedin.com/in/sean-o-toole-662a16176)
 - **Google Scholar**: [Take a look at my published works!](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
