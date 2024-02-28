@@ -1,5 +1,5 @@
 # Data Science Portfolio - Sean O'Toole
-This Portfolio is a compilation for a select number of current and past projects I had done as an academic, or for learning and hobby purposes.
+This portfolio is a compilation of a selected number of current and past projects that I have undertaken either academically, or for learning and hobby purposes.
 
 - **LinkedIn**: [In case you want to connect!](https://ch.linkedin.com/in/sean-o-toole-662a16176)
 - **Google Scholar**: [Take a look at my published works!](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
