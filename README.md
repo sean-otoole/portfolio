@@ -22,7 +22,7 @@ This repository, developed in MATLAB, comprises two distinct sets of analyses, b
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/bulk_RNA_sequencing.jpg"> **[Bulk RNA-sequencing analysis of AAVs for O'Toole, 2023](https://github.com/sean-otoole/bulk_RNA_seq_otoole_2023)**
-In this analysis, utilizing a combination of R and Python, I compare the RNA expression patterns of various neuronal populations infected with adeno-associated viruses (AAVs). I map RNA-sequencing reads to a customized version of the mouse genome, which I have modified to include AAV expression, and analyze transcriptional markers to assess the specificity of populations labeled with different viruses.
+In this analysis, utilizing a combination of R and Python, I compare the RNA expression patterns of various neuronal populations infected with adeno-associated viruses (AAVs). I map RNA-sequencing reads to a customized version of the mouse genome, which I have modified to account for AAV expression, and analyze transcriptional markers to assess the specificity of populations labeled with different viruses.
 <br>
 
 #
