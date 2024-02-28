@@ -29,6 +29,7 @@ In this analysis, utilizing a combination of R and Python, I compare the RNA exp
 In this project, I analyze the spatial expression of adeno-associated viruses (AAVs) in neocortical tissue slices. The images are processed using an ImageJ macro, and the final comparisons and computations are conducted using Python.
 <br>
 <br>
+<br>
 
 #
 
