@@ -17,11 +17,13 @@ In this project, which was primarily conducted in R, I analyzed single-cell RNA 
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/neural_activity.jpg"> **[Neural activity and behavioral analysis for O'Toole, 2023](https://github.com/sean-otoole/2p_neural_activity_otoole_2023)**
 This repository, developed in MATLAB, comprises two distinct sets of analyses, both aimed at investigating the neural activity patterns of specific cell types. The analyses primarily involve parsing a metadata file from a two-photon imaging pipeline. The activity levels of different neuronal groups are compared during specific behavioral events. I employ a combination of hierarchical nested bootstrap and regression analysis to compare these populations.
+<br>
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/bulk_RNA_sequencing.jpg"> **[Bulk RNA-sequencing analysis of AAVs for O'Toole, 2023](https://github.com/sean-otoole/bulk_RNA_seq_otoole_2023)**
 In this analysis, utilizing a combination of R and Python, I compare the RNA expression patterns of various neuronal populations infected with adeno-associated viruses (AAVs). I map RNA-sequencing reads to a customized version of the mouse genome, which I have modified to include AAV expression, and analyze transcriptional markers to assess the specificity of populations labeled with different viruses.
+<br>
 
 #
 
@@ -35,6 +37,7 @@ In this project, I analyze the spatial expression of adeno-associated viruses (A
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_nuclei_sequencing.jpg"> **[single-nuclei RNA-sequencing analysis for Widmer, 2022](https://github.com/sean-otoole/single_nuclei_seq_widmer_2022)** 
 This code enables the examination of the extent to which a specific gene was knocked down both within and across various cell types.
+<br>
 <br>
 <br>
 
