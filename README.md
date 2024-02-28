@@ -12,7 +12,7 @@ This portfolio is a compilation of a selected number of current and past project
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_cell_analysis.jpg"> **[Single-cell RNA-sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/scell_otoole_2023)**
 In this project, which was primarily conducted in R, I analyzed single-cell RNA sequencing data that I had collected to identify the transcriptional profiles of functional groups of neocortical neurons. The work entailed mapping the identities of approximately 60,000 neurons by employing techniques such as dimensionality reduction, matrix factorization, clustering, and bootstrapping.
-
+<br>
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/neural_activity.jpg"> **[Neural activity and behavioral analysis for O'Toole, 2023](https://github.com/sean-otoole/2p_neural_activity_otoole_2023)**
