@@ -5,8 +5,8 @@ This portfolio is a compilation of a selected number of current and past project
 - <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/google_scholar_logo.png"> [Take a look at my published works!](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
 
 ## Education
-- Ph.D. Brandeis University, Neuroscience
-- B.S. W.P.I., Molecular Biology and Biotechnology (GPA 3.72)
+- <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/brandeis_seal.png">Ph.D. Brandeis University, Neuroscience
+- <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/WPI_seal.png">B.S. W.P.I., Molecular Biology and Biotechnology
 
 ## Projects
 
