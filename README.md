@@ -12,25 +12,25 @@ This portfolio is a compilation of a selected number of current and past project
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_cell_analysis.jpg"> **[Single-cell RNA-sequencing analysis for O'Toole, 2023](https://github.com/sean-otoole/scell_otoole_2023)**
 
-In this project, largely written in R, I used single-cell RNA sequencing data I obtained to determine the transcriptional identity of functional groups of neocortical neurons. The work involved mapping the identities of ~60k neurons through the use of dimensionality reduction, matrix factorization, clustering and bootstrapping.
+In this project, which was primarily conducted in R, I analyzed single-cell RNA sequencing data that I had collected to identify the transcriptional profiles of functional groups of neocortical neurons. The work entailed mapping the identities of approximately 60,000 neurons by employing techniques such as dimensionality reduction, matrix factorization, clustering, and bootstrapping.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/neural_activity.jpg"> **[Neural activity and behavioral analysis for O'Toole, 2023](https://github.com/sean-otoole/2p_neural_activity_otoole_2023)**
 
-This repository, written in matlab, contains two separate sets of analysis, both of which are related to examining the neural activity patterns of specific cell types. The analyses largely involved parsing a metadata file from a two-photon imaging pipeline. The level of activity for differing groups of neurons are compared during specific behavioral events. I use a combination of hierchical nested bootstrap and regression to compare these populations.
+This repository, developed in MATLAB, comprises two distinct sets of analyses, both aimed at investigating the neural activity patterns of specific cell types. The analyses primarily involve parsing a metadata file from a two-photon imaging pipeline. The activity levels of different neuronal groups are compared during specific behavioral events. I employ a combination of hierarchical nested bootstrap and regression analysis to compare these populations.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/bulk_RNA_sequencing.jpg"> **[Bulk RNA-sequencing analysis of AAVs for O'Toole, 2023](https://github.com/sean-otoole/bulk_RNA_seq_otoole_2023)**
  
-Here, with a combination of R and Python, I compare the RNA expression patterns of differing neuronal populations infected with AAVs. In the analysis I map RNA-sequencing reads against a custom version of the mouse genome (which I modfied to account for AAV expression) and compare transcriptional markers to test the specificity of populations labeled with different viruses.
+In this analysis, utilizing a combination of R and Python, I compare the RNA expression patterns of various neuronal populations infected with adeno-associated viruses (AAVs). I map RNA-sequencing reads to a customized version of the mouse genome, which I have modified to include AAV expression, and analyze transcriptional markers to assess the specificity of populations labeled with different viruses.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/aav_histology_image.jpg"> **[Comparing the spatial patterns of AAVs for O'Toole, 2023](https://github.com/sean-otoole/aav_histology_otoole_2023)**
 
-In this project I compare the spatial expression of AAVs in neocortical tissue slices. Images are processed with an imagej macro and the final comparisons and computaitons are performed with python.
+In this project, I analyze the spatial expression of adeno-associated viruses (AAVs) in neocortical tissue slices. The images are processed using an ImageJ macro, and the final comparisons and computations are conducted using Python.
 <br>
 <br>
 
@@ -38,7 +38,9 @@ In this project I compare the spatial expression of AAVs in neocortical tissue s
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_nuclei_sequencing.jpg"> **[single-nuclei RNA-sequencing analysis for Widmer, 2022](https://github.com/sean-otoole/single_nuclei_seq_widmer_2022)** 
 
-This code allowed for the examinae the degree to which a specific gene was knocked within and across differing cell types.<br><br>
+This code enables the examination of the extent to which a specific gene was knocked down both within and across various cell types.
+<br>
+<br>
 
 #
 
