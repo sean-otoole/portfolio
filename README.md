@@ -40,7 +40,6 @@ This code enables the examination of the extent to which a specific gene was kno
 <br>
 <br>
 <br>
-<br>
 
 #
 
