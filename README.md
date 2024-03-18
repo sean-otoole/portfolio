@@ -7,6 +7,7 @@ This portfolio compiles select current and past projects undertaken for academic
 ## Education
 - <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/brandeis_seal.png">Ph.D. Brandeis University, Neuroscience
 - <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/WPI_seal.png">B.S. W.P.I., Molecular Biology and Biotechnology
+  
 
 ## Projects
 
