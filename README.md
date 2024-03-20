@@ -29,7 +29,7 @@ In this analysis, utilizing a combination of R and Python, I compare the RNA exp
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/aav_histology_image.jpg"> **[Comparing the spatial patterns of AAVs for O'Toole, 2023:](https://github.com/sean-otoole/aav_histology_otoole_2023)**
-In this project, I analyze the spatial expression of adeno-associated viruses (AAVs) in neocortical tissue slices. The images are processed using an ImageJ macro, and the final comparisons and computations are conducted using Python.
+In this project, I analyze the spatial expression of adeno-associated viruses (AAVs) in neocortical tissue slices. The images are processed using an ImageJ macro, and the final comparisons and computations are conducted with Python.
 <br>
 <br>
 <br>
@@ -37,7 +37,7 @@ In this project, I analyze the spatial expression of adeno-associated viruses (A
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_nuclei_sequencing.jpg"> **[single-nuclei RNA-sequencing analysis for Widmer, 2022:](https://github.com/sean-otoole/single_nuclei_seq_widmer_2022)** 
-This code enables the examination of the extent to which a specific gene was knocked down both within and across various cell types.
+This code was written to ask, to what degree is a specific gene knocked down both within and across various cell types, after AAV infection.
 <br>
 <br>
 <br>
