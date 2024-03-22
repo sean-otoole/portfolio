@@ -37,7 +37,7 @@ In this project, I analyze the spatial expression of adeno-associated viruses (A
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_nuclei_sequencing.jpg"> **[single-nuclei RNA-sequencing analysis for Widmer, 2022:](https://github.com/sean-otoole/single_nuclei_seq_widmer_2022)** 
-This code was written to ask, to what degree is a specific gene knocked down both within and across various cell types, after AAV infection.
+This code was written to ask the degree to which specific gene is knocked down across various cell types, after AAV infection.
 <br>
 <br>
 <br>
