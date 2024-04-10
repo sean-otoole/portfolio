@@ -1,4 +1,4 @@
-# Data Science/Bioinformatics Portfolio - Sean O'Toole
+# Notable Projects Portfolio - Sean O'Toole
 This portfolio compiles select current and past projects undertaken for academic, learning, and hobby purposes.
 
 - <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/linkedIn_logo.png">[In case you want to connect!](https://ch.linkedin.com/in/sean-o-toole-662a16176)
