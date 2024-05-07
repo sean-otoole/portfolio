@@ -17,7 +17,7 @@ In this project, which was primarily conducted in R, I analyzed single-cell RNA 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/neural_activity.jpg"> **[Neural activity and behavioral analysis for O'Toole, 2023:](https://github.com/sean-otoole/2p_neural_activity_otoole_2023)**
-This repository, developed in MATLAB, comprises two distinct sets of analyses, both aimed at investigating the neural activity patterns of specific cell types. The analyses primarily involve parsing a metadata file from a two-photon imaging pipeline. The activity levels of different neuronal groups are compared during specific behavioral events. I employ a combination of hierarchical nested bootstrap and regression analysis to compare these populations.
+This repository, developed in MATLAB, comprises two distinct sets of analyses, both aimed at investigating the neural activity patterns of specific cell types. The analyses primarily involve manipulating a metadata file from a two-photon imaging pipeline. The activity levels of different neuronal groups are compared during specific behavioral events. I employ a combination of hierarchical nested bootstrap and regression analysis to compare these populations.
 <br>
 
 #
