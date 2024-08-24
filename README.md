@@ -11,6 +11,20 @@ This portfolio compiles select current and past projects undertaken for academic
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/BRCA_2024.png"> **[Ongoing spatial transcriptomics/Breast cancer project, 2024:](https://github.com/sean-otoole/scell_otoole_2023)**
+Project Summary:
+
+Language & Tools: This project is written in Python and focuses on analyzing spatial transcriptomics datasets to explore how specific gene signatures vary across patient samples.
+
+Key Components:
+
+Tumor Segregation: Tumors are segregated based on immune cell invasiveness.
+Image Segmentation: Analysis is restricted to tumor tissue through image segmentation.
+AUCell Implementation: A Python version of AUCell was developed since the original package is in R (https://github.com/aertslab/AUCell).
+Cell Type Annotation: Spots are annotated using CellTypist, and results are verified by comparing cosine similarity scores to a previously annotated dataset.
+<br>
+#
+
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_cell_analysis.jpg"> **[Single-cell RNA-sequencing analysis for O'Toole, 2023:](https://github.com/sean-otoole/scell_otoole_2023)**
 In this project, which was primarily conducted in R, I analyzed single-cell RNA sequencing data that I had collected to identify the transcriptional profiles of functional groups of neocortical neurons. The work entailed mapping the identities of approximately 60,000 neurons by employing techniques such as dimensionality reduction, matrix factorization, clustering, and bootstrapping.
 <br>
