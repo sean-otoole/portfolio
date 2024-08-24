@@ -10,7 +10,7 @@ This portfolio compiles select current and past projects undertaken for academic
   
 
 ## Projects
-
+#
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/BRCA_2024.png"> **[Ongoing spatial transcriptomics/Breast cancer project, 2024:](https://github.com/sean-otoole/scell_otoole_2023)**
 ## Project Summary
 
