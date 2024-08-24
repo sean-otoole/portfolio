@@ -10,19 +10,9 @@ This portfolio compiles select current and past projects undertaken for academic
   
 
 ## Projects
-#
+
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/BRCA_2024.png"> **[Ongoing spatial transcriptomics/Breast cancer project, 2024:](https://github.com/sean-otoole/scell_otoole_2023)**
-## Project Summary
-
-### Language & Tools
-This project is written in Python and focuses on analyzing spatial transcriptomics datasets to explore how specific gene signatures vary across patient samples.
-
-### Key Components
-- **Tumor Segregation:** Tumors are segregated based on immune cell invasiveness.
-- **Image Segmentation:** Analysis is restricted to tumor tissue through image segmentation.
-- **AUCell Implementation:** A Python version of AUCell was developed since the original package is in R [AUCell](https://github.com/aertslab/AUCell).
-- **Cell Type Annotation:** Spots are annotated using CellTypist, and results are verified by comparing cosine similarity scores to a previously annotated dataset.
-<br>
+This project, written in Python, uses spatial transcriptomics datasets to examine how specific gene signatures vary between patient samples. The ongoing multimodal project involves segregating tumors based on the degree of immune cell invasiveness, as well as image segmentation to restrict the analysis strictly to tumor tissue. I also developed a Python-implemented version of AUCell (https://github.com/aertslab/AUCell), as the original package is written in R. Additionally, cell type annotation with CellTypist is used to annotate spots, and I verify the results by examining the cosine similarity scores of each location compared to a previously annotated dataset.
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/single_cell_analysis.jpg"> **[Single-cell RNA-sequencing analysis for O'Toole, 2023:](https://github.com/sean-otoole/scell_otoole_2023)**
