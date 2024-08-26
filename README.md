@@ -1,10 +1,20 @@
 ## Notable Projects Portfolio
-<br /> 
-<br /> 
+<br> 
 This portfolio showcases a selection of computational biology projects, including both finalized, published work and ongoing research.
+<br> 
+<div style="display: flex; align-items: center;">
+    <a href="https://ch.linkedin.com/in/sean-o-toole-662a16176" style="display: flex; align-items: center;">
+        <img src="https://github.com/sean-otoole/portfolio/blob/main/images/linkedIn_logo.png" width="25" height="25" style="margin-right: 8px;">
+        In case you want to connect!
+    </a>
+</div>
 
-- <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/linkedIn_logo.png">[In case you want to connect!](https://ch.linkedin.com/in/sean-o-toole-662a16176)
-- <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/google_scholar_logo.png"> [Take a look at my published works!](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
+<div style="display: flex; align-items: center;">
+    <a href="https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao" style="display: flex; align-items: center;">
+        <img src="https://github.com/sean-otoole/portfolio/blob/main/images/google_scholar_logo.png" width="25" height="25" style="margin-right: 8px;">
+        Take a look at my published works!
+    </a>
+</div>
 
 ## Education
 - <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/brandeis_seal.png">Ph.D. Brandeis University, Neuroscience
