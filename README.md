@@ -1,7 +1,7 @@
-Notable Projects Portfolio -
+## Notable Projects Portfolio
 <br /> 
 <br /> 
-This portfolio compiles select current and past computational biology projects.
+This portfolio showcases a selection of computational biology projects, including both finalized, published work and ongoing research.
 
 - <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/linkedIn_logo.png">[In case you want to connect!](https://ch.linkedin.com/in/sean-o-toole-662a16176)
 - <img align="left" width="25" height="25" src="https://github.com/sean-otoole/portfolio/blob/main/images/google_scholar_logo.png"> [Take a look at my published works!](https://scholar.google.com/citations?user=KXvfb1kAAAAJ&hl=en&oi=ao)
