@@ -34,7 +34,7 @@ This repository, developed in MATLAB, comprises two distinct sets of analyses, b
 <br>
 #
 
-<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/BRCA_2024.png"> **[Ongoing spatial transcriptomics/Breast cancer project, 2024:](https://github.com/sean-otoole/BRCA_2024)**
+<img align="left" width="250" height="150" src="https://github.com/sean-otoole/portfolio/blob/main/images/BRCA_2024.png"> **[Spatial transcriptomics/Breast cancer project, 2024:](https://github.com/sean-otoole/BRCA_2024)**
 This ongoing project (i.e. not finalized) utilizes multimodal spatial transcriptomics data sets to examine the degree to which specific B-cell subtypes may contribute to the differences between pre- and post-menopausal women with breast cancer. I am examining how specific gene signatures and cell types vary between patient samples. I am experimenting with segregating tumors based on the degree of immune cell invasiveness and using image segmentation to restrict the analysis strictly to tumor tissue. Additionally, I am exploring gene signatures with an area under the curve (AUC) approach, in which the AUC scores are calculated for each gene signature of interest. Furthermore, cell type annotation for each spot is performed using a logistic regression model (CellTypist), and I verify the results of the cell type assignment by examining the cosine similarity scores of each location compared to a previously annotated dataset.
 #
 
