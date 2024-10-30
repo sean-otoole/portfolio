@@ -1,6 +1,6 @@
 ## Notable Projects Portfolio
 <br> 
-This portfolio showcases a selection of computational biology projects, including finalized, published work as well as ongoing research.
+This portfolio showcases a selection of computational biology projects, including finalized and published works as well as ongoing research.
 <br> 
 <br> 
 <div style="display: flex; align-items: center;">
