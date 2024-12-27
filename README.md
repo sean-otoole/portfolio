@@ -30,8 +30,6 @@ This ongoing project (i.e. not finalized) utilizes spatial transcriptomics data 
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/scell_otoole_2023/blob/main/images/heatmaps_main.png"> **[Single-cell RNA-sequencing analysis for O'Toole, 2023:](https://github.com/sean-otoole/scell_otoole_2023)**
 In this project, I analyzed single-cell RNA sequencing data I had collected to identify the transcriptional profiles of functional groups of neocortical neurons. I constructed a virtual reality setup in which mouse neuronal populations were labeled in vivo as being highly active or inactive during the presentation of specific stimuli. I then dissociated the photolabeled cells and FACS sorted them for single-cell RNA sequencing. The analysis pipeline I constructed relied on integrating approximately 60,000 neurons acquired during these experiments with a higher-read depth, publicly available, dataset to identify specific neuronal subtypes. After confidently assigning subtypes, I could use a bootstrap analysis to determine which populations were enriched as a function of specific behavioral stimuli. The work employed numerous single-cell RNA sequencing techniques such as dimensionality reduction, matrix factorization, clustering, and bootstrapping.
-<br>
-<br> 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sean-otoole/2p_neural_activity_otoole_2023/blob/main/images/fig_1_clip.png"> **[Neural activity and behavioral analysis for O'Toole, 2023:](https://github.com/sean-otoole/2p_neural_activity_otoole_2023)**
